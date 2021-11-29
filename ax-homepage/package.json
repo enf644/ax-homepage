@@ -12,7 +12,7 @@
     "@fortawesome/fontawesome-free": "^5.13.0",
     "axios": "^0.19.2",
     "core-js": "^3.6.4",
-    "mavon-editor": "^2.7.7",
+    "mavon-editor": "^2.8.2",
     "roboto-fontface": "^0.10.0",
     "rss-parser": "^3.7.6",
     "typed.js": "^2.0.11",
